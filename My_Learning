@@ -1,0 +1,28 @@
+ What I Learned
+This project helped me understand:
+
+Why feature scaling is crucial for logistic regression
+
+How to create synthetic datasets for practice
+
+The importance of train-test split and model evaluation
+
+Interpreting logistic regression coefficients
+
+🙏 Acknowledgments
+Learning Resources: Built while following YouTube tutorials on logistic regression
+
+Dataset Creation: Custom-generated with realistic purchase patterns
+
+Code Assistance: Concepts reinforced through documentation and community help
+
+🔮 Future Improvements
+Add cross-validation for more robust evaluation
+
+Try other algorithms (Random Forest, SVM)
+
+Add more features (Gender, etc.)
+
+Create interactive visualization of decision boundary
+
+Deploy as a simple web app using Streamlit
