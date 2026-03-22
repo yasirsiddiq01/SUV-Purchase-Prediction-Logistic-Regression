@@ -4,6 +4,7 @@
 
 ## 📋 Project Overview
 This project predicts whether a customer will purchase an SUV based on their **Age** and **Estimated Salary** using **Logistic Regression**. It's a binary classification problem that demonstrates the complete machine learning workflow.
+Logistic Regression project predicting SUV purchases based on age and salary. Built as a learning exercise to understand ML workflow, feature scaling, and model evaluation. 📊🚗
 
 ## 🎯 Learning Objectives
 - Build a logistic regression model from scratch
